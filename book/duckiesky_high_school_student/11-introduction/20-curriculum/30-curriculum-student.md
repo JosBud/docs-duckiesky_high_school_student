@@ -110,11 +110,16 @@ I am interested in this course because:
 
 **Hi people**
 
+## Josbud's Section
+_I am interested in this course because I would like to teach it to others_
+
 I wanted to be in this class for multiple reasons:
 
-1. I'll learn the basic skills for building a drone
-2. I'll learn how to code and program a drone
-3. And I could potentially use the knowledge I gain from this class and use it in the outside world
+1. for my own knowledge
+2. to teach others
+3. just for fun!
+> Anyone else taking it just for **fun**?
+* fun is a good time
 
 ## Elijah's Section
 
